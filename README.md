@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Hi, I'm PiaPsyker
 
-<!--
-**PiaPsyker918/PiaPsyker918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer who enjoys building practical and creative projects — from console-based video processing to interactive Telegram bots.
 
-Here are some ideas to get you started:
+I focus on **learning by building**, writing clean code, and gradually improving architecture and project quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🐍 Python developer
+- 🤖 Interested in automation and Telegram bots
+- 🎨 Like combining technical and visual ideas
+- 🧩 Care about code readability and structure
+- 📚 Always improving through practice and refactoring
+
+---
+
+## 🚀 Featured Projects
+
+### 🌤 WeatherBot
+Telegram bot that shows real-time weather anywhere in the world.
+
+**Features:**
+- Inline mode support
+- Animated weather illustrations
+- Day / night weather detection
+- Interactive menu navigation
+
+**Tech:** Python, pyTelegramBotAPI, WeatherAPI  
+🔗 https://github.com/PiaPsyker918/WeatherBot
+
+---
+
+### 🎞 ASCII-Console-Video
+A console application that converts video files into animated ASCII art in real time.
+
+**Features:**
+- OpenCV-based frame processing
+- Dynamic terminal resizing
+- Optional color ASCII mode
+
+**Tech:** Python, OpenCV, NumPy, PIL  
+🔗 https://github.com/PiaPsyker918/ASCII-Console-Video
+
+---
+
+## 🛠 Technologies & Tools
+
+- **Languages:** Python
+- **Libraries:** requests, OpenCV, NumPy, Pillow, pyTelegramBotAPI
+- **Tools:** Git, GitHub, VS Code
+- **OS:** Windows, Linux
+
+---
+
+## 🌱 Currently Learning
+
+- Clean architecture in Python
+- Better project structuring
+- Performance optimization
+- More advanced Telegram bot features
+
+---
+
+## 📬 Contact
+
+- Telegram: [@Girlanda228](https://t.me/Girlanda228)
+
+---
