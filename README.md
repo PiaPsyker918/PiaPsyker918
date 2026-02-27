@@ -1,4 +1,4 @@
-# 👋 Hi, I'm PiaPsyker
+# Hi, I'm PiaPsyker
 
 I'm a Python developer who enjoys building practical and creative projects — from console-based video processing to interactive Telegram bots.
 
@@ -6,19 +6,19 @@ I focus on **learning by building**, writing clean code, and gradually improving
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🐍 Python developer
-- 🤖 Interested in automation and Telegram bots
-- 🎨 Like combining technical and visual ideas
-- 🧩 Care about code readability and structure
-- 📚 Always improving through practice and refactoring
+- Python developer
+- Interested in automation and Telegram bots
+- Like combining technical and visual ideas
+- Care about code readability and structure
+- Always improving through practice and refactoring
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🌤 WeatherBot
+### WeatherBot
 Telegram bot that shows real-time weather anywhere in the world.
 
 **Features:**
@@ -32,7 +32,7 @@ Telegram bot that shows real-time weather anywhere in the world.
 
 ---
 
-### 🎞 ASCII-Console-Video
+### ASCII-Console-Video
 A console application that converts video files into animated ASCII art in real time.
 
 **Features:**
@@ -45,7 +45,7 @@ A console application that converts video files into animated ASCII art in real 
 
 ---
 
-## 🛠 Technologies & Tools
+## Technologies & Tools
 
 - **Languages:** Python
 - **Libraries:** requests, OpenCV, NumPy, Pillow, pyTelegramBotAPI
@@ -54,7 +54,7 @@ A console application that converts video files into animated ASCII art in real 
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Clean architecture in Python
 - Better project structuring
@@ -63,7 +63,7 @@ A console application that converts video files into animated ASCII art in real 
 
 ---
 
-## 📬 Contact
+## Contact
 
 - Telegram: [@Girlanda228](https://t.me/Girlanda228)
 
